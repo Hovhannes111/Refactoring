@@ -1,0 +1,91 @@
+file_get_contents(): php_network_getaddresses: getaddrinfo for lookup.binlist.net failed: Temporary failure in name resolution
+
+/var/www/html/Refactoring/src/ApiRequests/BinlistApi.php:16
+/var/www/html/Refactoring/src/ApiRequests/BinlistApi.php:29
+/var/www/html/Refactoring/src/Refactoring.php:24
+/var/www/html/Refactoring/src/MyApp.php:25
+/var/www/html/Refactoring/src/MyApp.php:32
+/var/www/html/Refactoring/tests/SimpleTest.php:13
+
+file_get_contents(): php_network_getaddresses: getaddrinfo for lookup.binlist.net failed: Temporary failure in name resolution
+
+/var/www/html/Refactoring/src/ApiRequests/BinlistApi.php:16
+/var/www/html/Refactoring/src/ApiRequests/BinlistApi.php:29
+/var/www/html/Refactoring/src/Refactoring.php:24
+/var/www/html/Refactoring/src/MyApp.php:25
+/var/www/html/Refactoring/src/MyApp.php:32
+/var/www/html/Refactoring/tests/SimpleTest.php:13
+
+file_get_contents(): php_network_getaddresses: getaddrinfo for lookup.binlist.net failed: Temporary failure in name resolution
+
+/var/www/html/Refactoring/src/ApiRequests/BinlistApi.php:16
+/var/www/html/Refactoring/src/ApiRequests/BinlistApi.php:29
+/var/www/html/Refactoring/src/Refactoring.php:24
+/var/www/html/Refactoring/src/MyApp.php:25
+/var/www/html/Refactoring/src/MyApp.php:32
+/var/www/html/Refactoring/tests/SimpleTest.php:13
+
+file_get_contents(): php_network_getaddresses: getaddrinfo for lookup.binlist.net failed: Temporary failure in name resolution
+
+/var/www/html/Refactoring/src/ApiRequests/BinlistApi.php:16
+/var/www/html/Refactoring/src/ApiRequests/BinlistApi.php:29
+/var/www/html/Refactoring/src/Refactoring.php:24
+/var/www/html/Refactoring/src/MyApp.php:25
+/var/www/html/Refactoring/src/MyApp.php:32
+/var/www/html/Refactoring/tests/SimpleTest.php:13
+
+file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading
+
+/var/www/html/Refactoring/src/ApiRequests/RateApi.php:16
+/var/www/html/Refactoring/src/ApiRequests/RateApi.php:27
+/var/www/html/Refactoring/src/ApiRequests/RateApi.php:41
+/var/www/html/Refactoring/src/Refactoring.php:26
+/var/www/html/Refactoring/src/MyApp.php:25
+/var/www/html/Refactoring/src/MyApp.php:32
+/var/www/html/Refactoring/tests/SimpleTest.php:13
+
+file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading
+
+/var/www/html/Refactoring/src/ApiRequests/RateApi.php:16
+/var/www/html/Refactoring/src/ApiRequests/RateApi.php:28
+/var/www/html/Refactoring/src/ApiRequests/RateApi.php:42
+/var/www/html/Refactoring/src/Refactoring.php:26
+/var/www/html/Refactoring/src/MyApp.php:25
+/var/www/html/Refactoring/src/MyApp.php:32
+/var/www/html/Refactoring/tests/SimpleTest.php:13
+
+file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading
+
+/var/www/html/Refactoring/src/ApiRequests/RateApi.php:16
+/var/www/html/Refactoring/src/ApiRequests/RateApi.php:28
+/var/www/html/Refactoring/src/ApiRequests/RateApi.php:42
+/var/www/html/Refactoring/src/Refactoring.php:26
+/var/www/html/Refactoring/src/MyApp.php:25
+/var/www/html/Refactoring/src/MyApp.php:32
+/var/www/html/Refactoring/tests/SimpleTest.php:13
+
+file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading
+
+/var/www/html/Refactoring/src/ApiRequests/RateApi.php:17
+/var/www/html/Refactoring/src/ApiRequests/RateApi.php:30
+/var/www/html/Refactoring/src/ApiRequests/RateApi.php:44
+/var/www/html/Refactoring/src/Refactoring.php:26
+/var/www/html/Refactoring/src/MyApp.php:25
+/var/www/html/Refactoring/src/MyApp.php:32
+/var/www/html/Refactoring/tests/SimpleTest.php:13
+
+file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading
+
+/var/www/html/Refactoring/src/ApiRequests/RateApi.php:17
+/var/www/html/Refactoring/src/ApiRequests/RateApi.php:30
+/var/www/html/Refactoring/src/ApiRequests/RateApi.php:44
+/var/www/html/Refactoring/src/Refactoring.php:26
+/var/www/html/Refactoring/src/MyApp.php:25
+/var/www/html/Refactoring/src/MyApp.php:32
+/var/www/html/Refactoring/tests/SimpleTest.php:13
+
